@@ -1,0 +1,8 @@
+package syncronize
+
+const (
+	INIT_SYNCHRONIZE = iota + 200
+	RESULT_INIT_SYNCHRONIZE
+	SYNCHRONIZE
+	RESULT_SYNCHRONIZE
+)
